@@ -1,0 +1,22 @@
+.formBox {
+  display: flex;
+  gap: 10px;
+  margin: 20px 28px 0 29px;
+}
+.input {
+  padding: 10px 12px;
+  gap: 10px;
+  width: 275px;
+  height: 49px;
+  background: #ebeff2;
+  border-radius: 5px;
+}
+.submitBtn {
+  padding: 10px;
+  gap: 11px;
+  isolation: isolate;
+  width: 88px;
+  height: 49px;
+  background: #20eeb0;
+  border-radius: 5px;
+}

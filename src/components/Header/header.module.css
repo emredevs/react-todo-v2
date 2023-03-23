@@ -1,0 +1,25 @@
+.containerHeader {
+  position: relative;
+  height: 202px;
+}
+.date {
+  position: absolute;
+  text-align: right;
+  right: 28px;
+  bottom: 13px;
+}
+.day {
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 400;
+}
+.time {
+  font-weight: 400;
+  font-size: 48px;
+
+  color: #ffffff;
+}
+img {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
